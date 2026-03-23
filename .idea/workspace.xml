@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b542d13-d751-4567-9a9e-2cd0bfacab13" name="Changes" comment="tip calculator!">
-      <change afterPath="$PROJECT_DIR$/Day3.py" afterDir="false" />
+    <list default="true" id="7b542d13-d751-4567-9a9e-2cd0bfacab13" name="Changes" comment="Day 3: Conditional logic projects (rollercoaster, pizza delivery, treasure island game)">
+      <change afterPath="$PROJECT_DIR$/day4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Daily_python.executor": "Run",
     "Python.Day3.executor": "Run",
+    "Python.day4.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -90,7 +91,8 @@
       <workItem from="1773916183395" duration="1023000" />
       <workItem from="1773996777198" duration="26000" />
       <workItem from="1773999524401" duration="289000" />
-      <workItem from="1774090836760" duration="2545000" />
+      <workItem from="1774090836760" duration="2897000" />
+      <workItem from="1774196693072" duration="1661000" />
     </task>
     <task id="LOCAL-00001" summary="added band name generator">
       <option name="closed" value="true" />
@@ -116,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773999708700</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 3: Conditional logic projects (rollercoaster, pizza delivery, treasure island game)">
+      <option name="closed" value="true" />
+      <created>1774105814258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774105814258</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +136,8 @@
     <MESSAGE value="daily python project" />
     <MESSAGE value="added band name generator" />
     <MESSAGE value="tip calculator!" />
-    <option name="LAST_COMMIT_MESSAGE" value="tip calculator!" />
+    <MESSAGE value="Day 3: Conditional logic projects (rollercoaster, pizza delivery, treasure island game)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 3: Conditional logic projects (rollercoaster, pizza delivery, treasure island game)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -141,6 +152,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$Daily_python.coverage" NAME="Daily_python Coverage Results" MODIFIED="1773916292827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$Day3.coverage" NAME="Day3 Coverage Results" MODIFIED="1774091480625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$Day3.coverage" NAME="Day3 Coverage Results" MODIFIED="1774105673707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$day4.coverage" NAME="day4 Coverage Results" MODIFIED="1774196983677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
